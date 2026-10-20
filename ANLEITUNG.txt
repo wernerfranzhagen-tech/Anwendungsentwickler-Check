@@ -1,0 +1,13 @@
+BERUFSCHECK ANWENDUNGSENTWICKLUNG – V1.1
+
+OHNE PYTHON UND OHNE LOVABLE
+
+1. ZIP-Datei entpacken.
+2. index.html im Browser öffnen.
+3. Die 25 Fragen beantworten und Vorlieben/Abneigungen eintragen.
+4. Persönliche Auswertung öffnen.
+5. „Ergebnis drucken / als PDF speichern“ auswählen: sämtliche Antworten, die Einschätzung und die offenen Angaben sind im Ausdruck enthalten.
+
+Für PWA-Installation gesamten ORDNERINHALT inklusive manifest.webmanifest, sw.js und Icons auf einen HTTPS-Webhost (z.B. Netlify) hochladen. Danach im Browser „App installieren“ nutzen.
+
+Die Bewertung basiert ausschließlich auf Selbstauskünften und ist KEIN wissenschaftlich validierter Eignungstest. Es werden keine Daten an einen Server gesendet; lokale Antworten bleiben im Browser gespeichert, bis sie gelöscht werden.
